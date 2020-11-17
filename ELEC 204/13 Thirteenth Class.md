@@ -1,4 +1,4 @@
-# Twenty-Fifth Class
+# Thirteenth Class
 * Integrating over surfaces
   * For curves
     * Parameterization $\vec r(t)=<x(t), y(t), z(t)>$

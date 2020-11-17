@@ -1,4 +1,4 @@
-# Twenty-Sixth Class
+# Fourteenth Class
 * Resistors
   * $V=IR$
   * $i(t)=I_m\cos(\omega t+\theta_i), v(t)=RI_m\cos(\omega t+\theta_i)$
