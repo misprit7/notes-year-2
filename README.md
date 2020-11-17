@@ -4,7 +4,7 @@ These are my notes for second year Engineering at UBC. They were originally on B
 
 ## Setup
 
-Unfortunately, Github does not support (easily implemented) math markdown equations, so the only way to nicely view these note is to pull the repo and set up a markdown viewer. I personally use VSCode. To setup, pull the code from github and download VSCode [here](https://code.visualstudio.com/download). Download the Markdown+Math extension and optionally Markdown All in One. Also, open ```settings.json``` (Ctrl+P and type settings.json) and add the following: 
+Unfortunately, Github does not support (easily implemented) math markdown equations, so the only way to nicely view these notes is to pull the repo and set up a markdown viewer. I personally use VSCode. To setup, pull the code from github and download VSCode [here](https://code.visualstudio.com/download). Download the Markdown+Math extension and optionally Markdown All in One. Also, open ```settings.json``` (Ctrl+P and type settings.json) and add the following: 
 
 ```
 "mdmath.delimiters": "dollars", 
