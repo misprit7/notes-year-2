@@ -24,12 +24,12 @@
   * Driving along road
   * $x+y=1$
   * $x=t, y=1-t$
-  * What is rate of change of elevation with respectto time? 
+  * What is rate of change of elevation with respect to time? 
   * $\frac{dz}{dt}=\frac{\partial z}{\partial x}\frac{dx}{dt}+\frac{\partial z}{\partial y}\frac{dy}{dt}=z_x+z_y(-1)=2xe^{-x^2-y^2}+2ye^{-x^2-y^2}=2(y-x)e^{-x^2-y^2}$
   * Where is highest point on road? 
   * $0=\frac{dz}{dt}=2(y-x)e^{-x^2-y^2}\Rightarrow y=\frac12=x$
 * Directional derivative
-  * Think of $z=f(x, y)$$ as elevation, and suppose we are at $(x_0, y_0)$
+  * Think of $z=f(x, y)$ as elevation, and suppose we are at $(x_0, y_0)$
   * Doesn't make sense to ask what is the rate of change at the point
   * Does make sense to ask how $f(x, y)$ as we move in some direction $\vec u$
   * $(D_{\vec u}f)(x_0, y_0)=$ rate of change of $f$ as we move with unit speed in the direction of $\vec u$

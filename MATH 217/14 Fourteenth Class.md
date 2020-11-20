@@ -15,4 +15,4 @@
     * $\Delta x=\frac{b-a}N$
     * $x+k=a+k\Delta x$
     * $\int_{x=a}^bf(x)dx=\lim_{N\to\infty}\sum_{i=0}^Nf(x_i)\Delta x$
-    * Averave value of $f(x)$ over $[a, b]$ is $\frac1{b-a}\int_{x=a}^bf(x)dx$
+    * Average value of $f(x)$ over $[a, b]$ is $\frac1{b-a}\int_{x=a}^bf(x)dx$

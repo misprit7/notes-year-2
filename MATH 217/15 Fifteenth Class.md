@@ -2,7 +2,7 @@
 * Want to define integral of $f(x, y)$ over $R=[a, b]\times[c, d]\sub\mathbb R^2$
   * $\Delta x = \frac{b-a}N$, $\Delta y=\frac{a-c}M$
   * define $\int\int_Rf(x, y)dxdy=\int\int_Rf(x, y)dA=\lim_{M\to\infty, N\to\infty} \sum_{i=1}^N\sum_{j=1}^Mf(x_i, y_j)\Delta x\Delta y$
-  * Twodimensional integral counts signed volume under/over function and $xy$ plane
+  * Two dimensional integral counts signed volume under/over function and $xy$ plane
   * Average value of $f$ over $R$
     * $\frac1{Area(R)}\int\int_Rf(x, y)dA$
 * Properties of integrals

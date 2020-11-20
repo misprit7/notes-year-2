@@ -1,5 +1,5 @@
 # Sixteenth Class
-* e.g. compute $\int\int_RfdA$ where $f(x, y(1-x)^{3/2}$ and $R=\{(x, y): x^2+y^2\leq 1\}$
+* e.g. compute $\int\int_RfdA$ where $f(x, y)=(1-x)^{3/2}$ and $R=\{(x, y): x^2+y^2\leq 1\}$
   * $\int\int_RfdA=\int_{x=-1}^1\int_{y=-\sqrt{1-x^2}}^{\sqrt{1-x^2}}(1-x^2)^{3/2}dydx=\int_{x=-1}^12(1-x^2)^2dx=2x-\frac43x^3+\frac25x^5\big|_{-1}^1$
   * $=\frac{32}{15}$
 * Region $R$ is horizontally sliceable if $R=\{(x, y): g_1(y)\leq x\leq g_2(y), a\leq y\leq b\}$

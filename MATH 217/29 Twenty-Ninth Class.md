@@ -26,8 +26,3 @@
   * Divergence theorem applies to $E^\prime$ since the vector field $\vec F$ is defined everywhere in the volume
   * $0=\iiint_{E^\prime}(div\vec F)dVol = \iint_S\vec F\cdot\hat Nd S+\iint_{S_\epsilon}\vec F\cdot d\hat S\Rightarrow \iint_S\vec F\cdot d\hat S=-\iint_{S_\epsilon}\frac{\vec r}{r^3}\cdot (\frac{-\vec r}{r})d S=\iint_{S_\epsilon}\frac{r^2}{r^4} dS=\frac1{\epsilon^2}\iint_{S_\epsilon} dS=\frac{4\pi\epsilon^2}{\epsilon^2}=4\pi$
   * Therefore $\iint_S\vec F\cdot d\hat S=4\pi$
-
-```diff
-+ this text is highlighted in green
-- $a+b=c$ this text is highlighted in red
-```
