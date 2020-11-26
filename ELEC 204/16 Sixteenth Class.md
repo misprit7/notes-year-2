@@ -20,4 +20,4 @@
 * Maximum power transfer if load is restricted
   * Choose $X_L$ as close as possible to $-X_{Th}$
   * Then adjust $R_L$ as close as possible to $\sqrt{R_{th}^2+(X_L-X_C)^2}$
-  * The magnitude of $Z_L$ can be changed, however its angle is fixed
+  * The magnitude of $Z_L$ can be changed, however its angle is fixed $\RR$
