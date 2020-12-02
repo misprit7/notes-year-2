@@ -41,3 +41,5 @@
 * e.g. $\alpha$ is a $1$-form, $\beta$ is a $1$-form
   * $d(\alpha\wedge\beta)=d\alpha\wedge\beta+\alpha\wedge d\beta$
   * $div(\vec F\times\vec G)=\vec{curl}\vec F\cdot\vec G-\vec F\cdot\vec{curl}\vec G$
+
+![](./attachments/differential-forms.png)
