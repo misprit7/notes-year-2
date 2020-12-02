@@ -23,7 +23,7 @@
   * Unstable if it is not stable
   * Asymptotically stable if it is stable, and every solution $\vec x(t)$ that starts with $\vec x(0)$ sufficiently close to $\vec x_0$ converges to $\vec x_0$, i.e. $\lim_{t\to\infty}\vec x(t)=\vec x_0$
 * In most cases, the local behavior and stability of critical points can be determined from the Jacobian matrix and its eigenvalues
-  * $\lambda_1\neq\lambda 2, \lambda_1, \lambda_2>0$: nodal source (unstable node), unstable
+  * $\lambda_1\neq\lambda_2, \lambda_1, \lambda_2>0$: nodal source (unstable node), unstable
   * $\lambda_1\neq\lambda_2, \lambda_1, \lambda_2<0$: nodal sink (stable node), asymptotically stable
   * $\lambda_1<0<\lambda_2$: saddle, unstable
   * $\lambda_1=a+ib, a>0, b\neq 0$, spiral source, unstable
